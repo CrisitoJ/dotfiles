@@ -1,0 +1,17 @@
+.bash*
+.cache
+.dmrc
+.Downloads
+.mozilla
+.LICENSE.txt
+.npm
+.pki
+.node_rpl_history
+.gnupg
+.local
+.X*
+BraveSoftware
+gtk-3.0
+rncbc.org
+spotify
+pavucontrol.ini
