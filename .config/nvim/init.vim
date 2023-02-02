@@ -16,6 +16,8 @@ Plug 'zchee/deoplete-jedi'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'steelsojka/pears.nvim'
 Plug 'lukas-reineke/indent-blankline.nvim'
+Plug 'nvim-tree/nvim-web-devicons'
+Plug 'romgrk/barbar.nvim'
 call plug#end()
 
 "Theme config :)
