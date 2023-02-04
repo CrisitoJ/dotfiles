@@ -1,2 +1,1 @@
-# dotfiles
-ekisde
+# 🥶 Arch BTW
